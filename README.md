@@ -116,9 +116,9 @@ Após o processo de limpeza, a base tornou-se adequada para:
 ## 📂 Estrutura do Projeto
 
 ```text
-├── Base_de_Dados.csv
+├── Base_de_Dados.zip
 ├── tratando_base.py
-├── Base_de_Dados_tratada.csv
+├── Base_de_Dados_tratada.zip
 └── README.md
 ```
 
